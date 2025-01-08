@@ -1,0 +1,12 @@
+{
+  "name": "movieslandingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/assets/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
